@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/unqlite-python/commit/b42c6aa4e53af15a8d8851017016f5883a20a4e4",
       "git:hexsha": "b42c6aa4e53af15a8d8851017016f5883a20a4e4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/unqlite-python/commit/ba23f1fcd9d2971b2873824665f3c093516cb241",

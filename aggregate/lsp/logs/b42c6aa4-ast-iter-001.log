@@ -1,0 +1,7 @@
+[2026-10-20T20:25:49Z] === AST ITERATION 1 START | repo=coleifer/unqlite-python sha=b42c6aa4 ===
+[2026-10-20T20:25:49Z] [iter=1] PHASE START: ast repo=coleifer/unqlite-python sha=b42c6aa4
+[2026-10-20T20:25:49Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T20:29:53Z] [iter=1] AST chunks built count=1 triples=1765883
+[2026-10-20T20:29:53Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b42c6aa4e53af15a8d8851017016f5883a20a4e4/.complete
+[2026-10-20T20:29:53Z] [iter=1] PHASE END: ast elapsed_s=244 elapsed_min=4.1
+[2026-10-20T20:29:53Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
